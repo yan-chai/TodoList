@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "todoList",
+    "password": "123456",
+    "database": "TodoList_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "todoList",
+    "password": "123456",
+    "database": "TodoList_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "todoList",
+    "password": "123456",
+    "database": "TodoList_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
